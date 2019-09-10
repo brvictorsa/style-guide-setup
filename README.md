@@ -23,10 +23,10 @@ yarn eslint --init
 * Does your project use TypeScript? (O seu projeto usa TypeScript?)
 *N (no)*
 
-*Where does your code run? (Onde seu código roda?)
+* Where does your code run? (Onde seu código roda?)
 *> Node*
 
-*Use a popular style guide (Utilize uma guia de estilo popular)
+* Use a popular style guide (Utilize uma guia de estilo popular)
 *> Use a popular style guide*
 
 * Which style guide do you want to follow? (Qual guia de estilo deseja seguir?)
